@@ -1,5 +1,5 @@
 /*
-Day 4: Arrays in JavaScript.
+Day 3: Arrays in JavaScript.
 
 Arrays ---> Linear Representation of same type of data..
 Arrays are collections of items. Array is object type.
