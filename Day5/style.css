@@ -1,0 +1,21 @@
+#heading{
+    color : blueviolet;
+    text-align: center;
+}
+.heading3{
+    color: blue;
+}
+
+/*h2{
+    visibility: hidden;
+}*/
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: none;
+    box-shadow: 0 4 2 rgb(112, 111, 111);
+    margin: 5px;
+    text-align: center;
+    background-color: aliceblue;
+}
