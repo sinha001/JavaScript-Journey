@@ -1,0 +1,32 @@
+#firstDiv{
+    height:150;
+    width: 250;
+    box-shadow: 0 8 4 0 rgba(8, 8, 8, 0.795);
+    border: none;
+    background-color: rgb(165, 167, 169);
+    color:black;
+}
+
+#box{
+    height: 300px;
+    width: 250px;
+    border: none;
+    box-shadow: 0 4 2 rgb(112, 111, 111);
+    margin: 1px;
+    text-align: center;
+    background-color: rgb(109, 168, 220);
+}
+
+#Practise{
+    margin-top: 20px;
+}
+
+.q2{
+    color: red;
+    border: none;
+
+}
+
+.newClass {
+    background-color: rgb(35, 231, 35);
+}
