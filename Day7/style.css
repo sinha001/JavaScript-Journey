@@ -1,0 +1,41 @@
+.box{
+    margin-top:1rem;
+    width:150px;
+    height: 100px;
+    border: 1px solid black;
+    padding:10px;
+    box-shadow: 2px 10px rgba(15, 27, 14, 0.785);
+    border-radius: 10px;
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin:2px;
+    text-shadow: 1px 2px rgb(206, 203, 203);
+}
+.dark{
+    background-color: black;
+    color:green;
+
+    .box{
+        box-shadow: 2px 10px rgba(1, 40, 1, 0.785);
+        border: 1px solid rgb(56, 228, 41);
+
+    }
+    button{
+        border: none;
+        border-radius: 5px;
+        padding: 10px;
+        margin:2px;
+        background-color: green;
+        color: white;
+        text-shadow: 1px 2px rgb(206, 203, 203);
+    }
+}
+
+.light{
+    background-color: white;
+    color: black;
+}

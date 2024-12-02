@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learning JS-- Day7</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div>
+      <h1>Learning Events in JavaScript</h1>
+      <h3>example 1: Button: onclick and ondblclick</h3>
+      <button onclick="alert('button was clicked')">click me</button>
+      <!--inline-event handling-->
+      <button ondblclick="console.log('clicked 2 times')">click me 2x</button>
+      <h3>example 2: Mouse: onmouseover</h3>
+      <div
+        onmouseover="console.log('you are hover mouse-inside..')"
+        class="box"
+      >
+        This is a box
+      </div>
+      <h3>example 3: Event handling using JS</h3>
+      <button id="btn1">click it..</button>
+
+      <h3>example 4: Event Oject in JS</h3>
+      <button id="btn2">Event Object Info</button>
+
+      <h3>example 5: Event Listener in JS</h3>
+      <div class="box">This is Event Listener Example..</div>
+
+      <h3>Practise Q1</h3>
+      <button id="toggleBtn">change mode</button>
+
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
