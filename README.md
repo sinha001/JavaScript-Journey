@@ -110,8 +110,8 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## 📧 Contact
 If you have questions, feedback, or suggestions, feel free to reach out to:
 
-**Email**: [sinhasonu004@gmail.com](mailto:sinhasonu004@gmail.com)
-
+**Email**: [nishantsinha.referral@gmail.com](mailto:nishantsinha.referral@gmail.com)  
+**GitHub**: [sinha001](https://github.com/sinha001)
 
 ---
 
